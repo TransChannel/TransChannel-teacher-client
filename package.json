@@ -1,0 +1,14 @@
+{
+    "name": "transchannel-teacher-client",
+    "version": "0.0.1",
+    "description": "TransChannel教师桌面客户端",
+    "homepage": "http://transchannel.net",
+    "main": "main.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/TransChannel/TransChannel-teacher-client.git"
+    },
+    "bugs": {
+        "url": "https://github.com/TransChannel/TransChannel-teacher-client/issues"
+    }
+}
